@@ -1,5 +1,11 @@
 ## Hi there 👋
-
+normaIyad** is a ✨ special front end devedeveloper ✨ 
+As a passionate Front-End Developer, I specialize in creating user-friendly and visually appealing web applications. With expertise in HTML, CSS, JavaScript, React, and Bootstrap, I thrive on transforming ideas into functional, interactive, and responsive designs.
+I have hands-on experience building projects such as an e-commerce platform, movie search app, and a portfolio template, which showcase my ability to deliver innovative solutions. My internship at The Civil Society for the Blind in Jerusalem allowed me to refine my technical troubleshooting and problem-solving skills in real-world environments.
+Beyond my technical skills, I value teamwork, adaptability, and effective communication. I’m passionate about learning new technologies and continuously improving my craft. I’m currently expanding my knowledge through courses in React and ASP.NET to grow as a full-stack developer.
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 <!--
 **normaIyad/normaIyad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
