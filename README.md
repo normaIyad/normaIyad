@@ -16,9 +16,9 @@ Beyond my technical skills, I value teamwork, adaptability, and effective commun
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<div id="header" align="center">
+
   <img src="https://github-stats-alpha.vercel.app/api?username=normaIyad"  />
-</div>
+
 <!--
 **normaIyad/normaIyad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
